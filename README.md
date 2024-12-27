@@ -1,8 +1,8 @@
 # Wine Sales Management System V2 (Sistema de Gestão de Vendas de Vinho V2)
 
-### Português
+## Português
 
-## Descrição
+### Descrição
 Este projeto é a segunda versão de um sistema de gestão de vendas de vinho. Permite registar vendas de vinho por diferentes vendedores, calcular percentagens de vendas de vinhos tinto e branco, identificar o vendedor que mais vendeu, e calcular a venda de maior valor, a quantidade média de garrafas por venda e o valor médio por venda.
 
 ## Funcionalidades
@@ -22,9 +22,9 @@ Em comparação com a versão anterior, esta versão do código apresenta as seg
 - **Robustez**: Adição de validações para entradas do usuário e utilização de arrays para armazenamento estruturado dos dados.
 - **Eficiência**: A nova versão utiliza loops e estruturas de dados mais eficientes, melhorando a performance geral.
 
-### English
+## English
 
-## Description
+### Description
 This project is the second version of a wine sales management system. It allows you to record wine sales by different sellers, calculate sales percentages of red and white wines, identify the top seller, and calculate the highest value sale, the average number of bottles per sale, and the average sale value.
 
 ## Features
