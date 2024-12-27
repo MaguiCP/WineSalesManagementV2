@@ -1,8 +1,8 @@
 # Wine Sales Management System V2 (Sistema de Gestão de Vendas de Vinho V2)
 
-## Descrição
-
 ### Português
+
+## Descrição
 Este projeto é a segunda versão de um sistema de gestão de vendas de vinho. Permite registar vendas de vinho por diferentes vendedores, calcular percentagens de vendas de vinhos tinto e branco, identificar o vendedor que mais vendeu, e calcular a venda de maior valor, a quantidade média de garrafas por venda e o valor médio por venda.
 
 ## Funcionalidades
